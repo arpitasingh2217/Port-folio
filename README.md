@@ -1,4 +1,4 @@
-# 🌟 Arpita Singh – Developer Portfolio
+#  Arpita Singh –  Portfolio
 
 Welcome to my portfolio repository!  
 I'm **Arpita Singh**, a 3rd-year Computer Science student at **Amrita Vishwa Vidyapeetham**, passionate about web development, AI/ML, and building meaningful tech-driven solutions. This portfolio showcases my skills, featured projects, and professional journey so far.
