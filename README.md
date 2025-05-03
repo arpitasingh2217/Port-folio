@@ -48,5 +48,4 @@ AI-powered app that tracks user expenses, auto-categorizes them, and gives intel
 
 ---
 
-## 📂 Repository Structure (for Portfolio Website)
 
