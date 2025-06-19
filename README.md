@@ -41,7 +41,7 @@ AI-powered app that tracks user expenses, auto-categorizes them, and gives intel
 
 ## 🏆 Achievements
 
-- 🥈 **2nd Prize** – Hackathon at IIT Indore for the “Study Hub Platform”
+- 🥈 **2nd Prize** – Hackathon at IIT Indore for the “RIDE-SHARE” app
 - 💡 Participant – ShaktiCon, Social Summer Code, Tantrotsav
 
 ---
