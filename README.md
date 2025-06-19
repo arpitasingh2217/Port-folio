@@ -42,8 +42,6 @@ AI-powered app that tracks user expenses, auto-categorizes them, and gives intel
 ## 🏆 Achievements
 
 - 🥈 **2nd Prize** – Hackathon at IIT Indore for the “Study Hub Platform”
-- 💼 Selected for **CodEvo Web Development Internship**
-- ✍️ Hired as a **Copywriting Intern** at Internshala
 - 💡 Participant – ShaktiCon, Social Summer Code, Tantrotsav
 
 ---
